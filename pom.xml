@@ -10,7 +10,20 @@
     <packaging>pom</packaging>
 
     <modules>
-
+        <module>alaska-spring-cloud-eureka</module>
+        <module>alaska-spring-cloud-zuul</module>
+        <module>alaska-spring-cloud-oauth2</module>
+        <module>alaska-spring-cloud-gateway</module>
+        <module>alaska-spring-cloud-config</module>
+        <module>alaska-spring-cloud-zookeeper</module>
+        <module>alaska-spring-cloud-task</module>
+        <module>alaska-spring-cloud-consul</module>
+        <module>alaska-spring-cloud-security</module>
+        <module>alaska-spring-cloud-archaius</module>
+        <module>alaska-spring-cloud-cluster</module>
+        <module>alaska-spring-cloud-stream</module>
+        <module>alaska-spring-cloud-aws</module>
+        <module>alaska-spring-cloud-bus</module>
     </modules>
 
     <properties>
